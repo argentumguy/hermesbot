@@ -1,0 +1,8 @@
+# archivos sensibles | credenciales y variables de entorno
+.env
+credenciales.json
+
+# archivos de Python
+__pycache__/
+*.log
+

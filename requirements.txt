@@ -1,0 +1,7 @@
+requests
+gspread
+beautifulsoup4
+python-dotenv
+flask
+gunicorn
+redis

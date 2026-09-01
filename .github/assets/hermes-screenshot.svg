@@ -1,0 +1,41 @@
+<svg width="1200" height="820" viewBox="0 0 1200 820" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#34D399"/>
+      <stop offset="1" stop-color="#16A34A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="820" rx="36" fill="url(#bg)"/>
+  <rect x="110" y="96" width="360" height="628" rx="32" fill="#111827" stroke="#1F2937" stroke-width="3"/>
+  <rect x="110" y="96" width="360" height="74" rx="32" fill="#1F2937"/>
+  <circle cx="165" cy="133" r="18" fill="#34D399" fill-opacity="0.8"/>
+  <text x="204" y="143" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Hermes</text>
+  <rect x="148" y="196" width="250" height="84" rx="18" fill="#1F2937"/>
+  <text x="172" y="236" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="26">hola</text>
+  <text x="172" y="262" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="16">mensaje recibido</text>
+  <rect x="220" y="310" width="210" height="86" rx="18" fill="url(#green)"/>
+  <text x="246" y="347" fill="#052E16" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">ayuda</text>
+  <text x="246" y="373" fill="#052E16" font-family="Arial, Helvetica, sans-serif" font-size="15" opacity="0.8">respuesta del bot</text>
+  <rect x="148" y="430" width="260" height="92" rx="18" fill="#1F2937"/>
+  <text x="172" y="470" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="24">generar codigo</text>
+  <text x="172" y="500" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="16">solicitud de invitación</text>
+  <rect x="220" y="550" width="210" height="80" rx="18" fill="#22C55E"/>
+  <text x="246" y="587" fill="#052E16" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">HERMES-AB12CD</text>
+
+  <rect x="540" y="150" width="540" height="270" rx="26" fill="#0B1220" stroke="#1F2937" stroke-width="2"/>
+  <text x="575" y="210" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Bot de WhatsApp</text>
+  <text x="575" y="260" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="24">• validación por invitación</text>
+  <text x="575" y="305" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="24">• respuesta automática</text>
+  <text x="575" y="350" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="24">• flujo de mensajes simple</text>
+  <text x="575" y="395" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="24">• estructura lista para crecer</text>
+
+  <rect x="540" y="470" width="540" height="200" rx="26" fill="#0B1220" stroke="#1F2937" stroke-width="2"/>
+  <text x="575" y="528" fill="#34D399" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Versión pública segura</text>
+  <text x="575" y="575" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="22">sin tokens reales</text>
+  <text x="575" y="610" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="22">sin DB privada</text>
+  <text x="575" y="645" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="22">sin secretos</text>
+</svg>
