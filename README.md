@@ -40,15 +40,6 @@ Bot: Te muestro las opciones disponibles.
 Usuario: generar codigo
 Bot: Aquí tenés tu código de invitación.
 ```
-
-Y esta es una vista de ejemplo del flujo:
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/argentumguy/hermesbot/main/.github/assets/hermes-screenshot.svg" alt="Hermes Bot flow preview" width="900" />
-</div>
-
-Esto permite entender la lógica sin exponer la parte privada del proyecto.
-
 ## Cómo correrlo
 
 ### 1) Cloná el repositorio
